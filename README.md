@@ -3,7 +3,7 @@
 
 ## Demo
 
-https://soft-manatee-d683d5.netlify.app/
+https://helpful-syrniki-e75ebd.netlify.app
 
 # Getting Started with Create React App
 
